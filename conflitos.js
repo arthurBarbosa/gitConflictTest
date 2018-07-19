@@ -10,10 +10,12 @@ function subtrair(x, y){
 }
 
 function contagem_tempo(segundos){
-	segundos = segundos -1;
+    var teste = 0;
+    segundos = segundos -1;
 	if(segundos == -1){
-		
-		return false;
+			return false;
+    } else {
+        segundos == 3;
     }
 }
 
