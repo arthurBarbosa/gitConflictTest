@@ -18,6 +18,7 @@ function contagem_tempo(segundos){
     } else {
         segundos == 3;
     }
+		return false;
 }
 
 function multiplicar(x, y){
