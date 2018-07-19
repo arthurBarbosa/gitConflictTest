@@ -12,5 +12,9 @@ function contagem_tempo(segundos){
     }
 }
 
+function subtrair(x, y){
+    return x-y;
+}
+
 
 
